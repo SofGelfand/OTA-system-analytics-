@@ -50,8 +50,8 @@ System Analysis Portfolio: OTA platform for EV "Atom" | BPMN, UML, Sequence, Gan
 
 ## 📫 Контакты
 
-- **Telegram:** [@твой_никнейм]
-- **LinkedIn:** [ссылка на профиль]
+- **Telegram:** @nekto_sofa
+- **LinkedIn:** https://www.linkedin.com/in/sofia-gelfand-114b00387/
 - **GitHub:** [SofGelfand](https://github.com/SoGelfand)
 
 ---
